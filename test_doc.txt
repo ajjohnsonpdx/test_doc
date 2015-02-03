@@ -1,1 +1,2 @@
 this is a test doc
+and this line was added
